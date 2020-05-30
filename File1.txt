@@ -1,5 +1,3 @@
 ﻿Welcome to Git!s
 
 Home page ready!!
-
-Sample text

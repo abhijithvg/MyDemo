@@ -1,1 +1,3 @@
 To test fetch option.
+
+Bug related to login page fixed!

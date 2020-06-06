@@ -1,3 +1,6 @@
 To test fetch option.
 
 Bug related to login page fixed! - Feature added by user1
+Edited by Me on local repo
+
+New FEATURE - BEST ONE YET!
